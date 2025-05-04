@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Ezequiel 👋</h1>
 
-<!--
-**ezequielzaquiere/ezequielzaquiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 💻 Desarrollador Fullstack formado en React, Node.js, Express, Tailwind y más.
+- 🌊 Estoy creando una web app de climatología marina para ayudar a mi padre marinero.
+- 📸 Fotógrafo profesional reconvertido en creador digital.
+- 🎯 Busco oportunidades donde pueda seguir creciendo y aportar valor real.
+- 🌍 Vivo en Galicia, España.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+### 📫 Contacto
+
+- 📧 ezequiel@email.com
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/ezequiel-zaquiere/])
+
+---
+
+Gracias por pasar por mi perfil 💛 ¡Nos vemos en el código!
