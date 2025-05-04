@@ -38,14 +38,6 @@
 
 ---
 
-### 🐍 Actividad reciente
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielzaquiere/ezequielzaquiere/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 Contacto
 
 - 📧 ezequiel.zaquiere@gmail.com
